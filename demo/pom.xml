@@ -28,10 +28,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.websystique.springboot</groupId>
-            <artifactId>account-service</artifactId>
-        </dependency>
+       
     </dependencies>
     <build>
         <finalName>SpringBootWeb-${app.version}</finalName>
